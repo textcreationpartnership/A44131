@@ -1,0 +1,281 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Supplement to the philosophical transactions of July, 1670 With some reflexions on Dr. John Wallis, his letter there inserted.</title>
+            <title>Philosophical transactions. Supplement.</title>
+            <author>Holder, William, 1616-1698.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44131</idno>
+            <idno type="STC">Wing H2388A</idno>
+            <idno type="STC">ESTC R215280</idno>
+            <idno type="EEBO-CITATION">99827197</idno>
+            <idno type="PROQUEST">99827197</idno>
+            <idno type="VID">31613</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44131)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31613)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1888:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Supplement to the philosophical transactions of July, 1670 With some reflexions on Dr. John Wallis, his letter there inserted.</title>
+                  <title>Philosophical transactions. Supplement.</title>
+                  <author>Holder, William, 1616-1698.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Henry Brome, at the Gun at the west-end of St. Pauls,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By William Holder.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wallis, John, 1616-1703 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:31613:1" rendition="simple:additions"/>
+            <p>SUPPLEMENT TO THE Philoſophical Tranſactions Of <hi>J<g ref="char:V">Ʋ</g>LY,</hi> 1670. With ſome Reflexions on Dr. John Wallis, HIS LETTER There Inſerted.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Henry Brome,</hi> at the Gun at the Weſt-End of St. <hi>Pauls,</hi> 1678.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:31613:2"/>
+            <pb n="1" facs="tcp:31613:2"/>
+            <head>A SUPPLEMENT TO THE <hi>Philoſophical Tranſactions of</hi> July, 1670, <hi>&amp;c.</hi>
+            </head>
+            <div type="introduction">
+               <p>
+                  <seg rend="decorInit">T</seg>HE Reader is requeſted to be at the Pains and Patience to conſider and ſcan well ſome matters of Fact, concerning which an Appeal is here made to him; wherein the Author is not ſo much concerned to be righted to his Title againſt an Invader, as to expreſs his juſt Reſentment of the ſubtle practices, which have been contri<g ref="char:EOLhyphen"/>ved to abuſe and miſlead the Reader with falſe ſhews, ſome<g ref="char:EOLhyphen"/>what reſembling Truth. Which, but nakedly expoſed to light, if it ſeem ſevere, it muſt be imputed to the matter it ſelf.</p>
+               <p>IN the Year 1659/60, Dr. <hi>William Holder</hi> at <hi>Bletchington,</hi> near <hi>Oxford,</hi> taught <hi>Alexander Popham</hi> 
+                  <abbr>Eſq</abbr> being born Deaf and Dumb, to ſpeak. Of which a larger account is given in the following Paper.</p>
+               <p>Dr. <hi>John Wallis</hi> lived then in <hi>Oxford,</hi> ſaw and perfectly knew this; was Converſant with Dr. <hi>Holder;</hi> was one of thoſe many who reſorted to <hi>Bletchington,</hi> to ſee and hear Mr. <hi>Popham.</hi>
+               </p>
+               <p>Yet the ſame Dr. <hi>Wallis,</hi> about two years after, having undertook Mr. <hi>Whalely,</hi> who was then without ſpeech, is ſeen pretending to enter into a long Philoſophical Conſide<g ref="char:EOLhyphen"/>ration, whether it may not be <hi>poſſible in Nature, and Morally
+<pb n="2" facs="tcp:31613:3"/>poſſible,</hi> that is, <hi>poſſible to ſucceed in practice,</hi> to teach Mr. <hi>Whalely</hi> to ſpeak and underſtand a language; ſo to <hi>encou<g ref="char:EOLhyphen"/>rage himſelf to undertake that difficult task,</hi> pretending al<g ref="char:EOLhyphen"/>ſo to be <hi>induced</hi> to it upon thoſe <hi>Conſiderations,</hi> which was a moſt pleaſant piece of Pageantry.</p>
+               <p>For he then certainly knew, that it was poſſible to teach a Deaf and Dumb perſon to ſpeak; becauſe he had ſeen it effected two years before upon Mr. <hi>Popham.</hi> And for Mr. <hi>Whalely,</hi> he was not born Dumb, but had uſe of his Tongue till five years of Age (as Dr. <hi>Wallis</hi> himſelf relates); And then, by reaſon of his loſs of Hearing, without any Detri<g ref="char:EOLhyphen"/>ment to the Organs of Speech, fell by degrees into a De<g ref="char:EOLhyphen"/>ſuetude of ſpeaking. And a leſs knowing perſon than Dr. <hi>Wallis,</hi> could eaſily have pronounced (without filling a ſheet of Paper with Conſiderations) that it was poſſible for Mr. <hi>Whalely</hi> to be made to ſpeak, he having already given proof of it.</p>
+               <p>But there was more uſe of thoſe Conſiderations, than to encourage himſelf (as he pretends) to undertake ſo difficult a task. He had a long aking-tooth, to joyn to his other Trophies, that which he ſaw performed by Dr. <hi>Holder,</hi> and ſilently paſſed over, <hi>viz.</hi> The finding a ſucceſsful way of teaching Dumb and Deaf perſons to ſpeak. And ſeeing it was too late to be Author of that which was found out al<g ref="char:EOLhyphen"/>ready; and yet he was reſolved to aſſume to himſelf this experiment; he had recourſe to ſubtle contrivances. He meets with a young Gentleman two years after, who (as hath been ſaid) having been able to ſpeak till five years of Age, fell by Deafneſs into a diſuſe of ſpeaking, it was no ſuch diffi<g ref="char:EOLhyphen"/>cult task (as he pretends) to inſtruct him to recover ſome<g ref="char:EOLhyphen"/>what of the uſe of his Tongue.</p>
+               <p>But having done this in a happy hour, all poſſible noiſe is preſently made of it. It is ſhewed at Court, and <hi>Greſham</hi>-College, and entred into the Journal of the Royal Society. If Dr. <hi>Wallis</hi> had performed this experiment upon Mr. <hi>Pop<g ref="char:EOLhyphen"/>ham,</hi> (who was born Deaf and Dumb) the Court and Royal Society could not have eſcaped the noiſe of it, as being more worthy of their notice, and his Vaunt.</p>
+               <p>However, the fame of it brings to him Mr. <hi>Popham,</hi> who
+<pb facs="tcp:31613:3"/>being before returned home to his Friends, began to loſe what he had been taught by Dr. <hi>Holder.</hi> From thence<g ref="char:EOLhyphen"/>forth Dr. <hi>Wallis</hi> practiſed to aſſume Mr. <hi>Popham's</hi> ſpeaking wholly to himſelf; not that he dared to challenge it, but he contrived always to have it believed; which he did with ſo much induſtry and effect, that there are at this day very few in <hi>Oxford,</hi> who know or think otherwiſe, but that it was the <hi>effect of the Doctors skill,</hi> as he has cauſed it to be publiſhed in the Tranſactions.</p>
+               <p>By theſe Conſiderations therefore, his deſign was to make the world believe that he was the firſt who thought of it, which he could not then do whilſt things were freſh in memory and knowledg about <hi>Oxford.</hi> Theſe Conſidera<g ref="char:EOLhyphen"/>tions did not ſee the light till about eight years after, and were to uſher in a Poſtſcript or Comment upon his Let<g ref="char:EOLhyphen"/>ter, which was to paſs, as if written by the Publiſher of the Tranſactions, but was wholly penned by himſelf, as Mr. <hi>Oldenburgh</hi> avowed to Dr. <hi>Holder,</hi> and after to the Right Honourable Preſident, and to others of the Society. Which is not the firſt nor the laſt <hi>effect of the ſaid Doctors skill,</hi> in thus penning and ſpreading his own fame. The Reader may find and ſee in ſeveral Authors Works, who would ſuffer themſelves to be ſo impoſed upon, the Fame and Praiſe of Dr. <hi>Wallis</hi> in large Characters ingra<g ref="char:EOLhyphen"/>ven by himſelf. For that purpoſe the Tranſactions were his common Market, and a new Book upon the Anvil, if he could find way and leave to croud himſelf in, was a Fair for this Merchant of Glory. And when he got a hint (for which he always lay in wait) of any conſiderable new Invention or Improvement, preſently comes out an Epiſtle or ſmall Tractate of Dr. <hi>John Wallis</hi> upon that ſub<g ref="char:EOLhyphen"/>ject, to entitle it to himſelf.</p>
+               <p>As to this particular, the Reader will find a ſummary account of it in this enſuing Paper, which is ſet down as it was intended to be inſerted in the Tranſactions. And though this preſent Vindication appears ſo late, the com<g ref="char:EOLhyphen"/>plaint and addreſs to the Royal Society were more early, but met with delays, which were alſo favoured by the
+<pb n="4" facs="tcp:31613:4"/>Remiſneſs of Dr. <hi>Holder</hi> in purſuing ſo unpleaſant an affair. And poſſibly it had never ſeen the light, had not Dr. <hi>Wallis</hi> very lately given a freſh occaſion, in a Book lately publiſhed at <hi>Oxford</hi> by Dr. <hi>Plot.</hi>
+               </p>
+            </div>
+            <div type="publishers_note">
+               <head>
+                  <hi>Preface by the Publiſher of the Tranſactions, Mr.</hi> Olden<g ref="char:EOLhyphen"/>burgh.</head>
+               <p>IN <hi>the Tranſactions of</hi> July 1670. N<hi rend="sup">o</hi>. 61. p. 1087. <hi>an account is given of a Dumb and Deaf perſon taught by Dr.</hi> Wallis <hi>to ſpeak and underſt and a language. And the doing of the like to another perſon, a young Gentle<g ref="char:EOLhyphen"/>man of a very good Family, and fair Eſtate, (meaning Mr.</hi> Popham) <hi>who did from his Birth want his Hear<g ref="char:EOLhyphen"/>ing, is attributed to the effect of Dr.</hi> Wallis's <hi>skill, as it was then communicated to the publiſher, without any mention of Dr.</hi> Holder; <hi>at which ſome juſt exceptions being taken, the publiſher to avoid partiality on his part, (though but in appearance) hath thought fit to publiſh this enſuing Narrative, of what hath been done in this kind by Dr.</hi> Holder, <hi>as it is handed to him by the Author himſelf.</hi>
+               </p>
+            </div>
+            <div type="narrative">
+               <p>SOme years immediately before His Majeſties happy Re<g ref="char:EOLhyphen"/>ſtauration, divers ingenious perſons in <hi>Oxford</hi> uſed to meet at the Lodgings of that excellent Perſon, and zealous promoter of Learning, the late Biſhop of <hi>Cheſter,</hi> Dr. <hi>Wilkins,</hi> then Warden of <hi>Wadham</hi> College, where they diligently conferred about Reſearches and Experiments in Nature, and indeed laid the firſt Ground and Foundation of the Royal Society. In that time, <hi>viz.</hi> in the Year 1659, <hi>Alexander Popham</hi> 
+                  <abbr>Eſq</abbr> being deprived of Hearing from his Birth, and conſequently of Speaking, about the Tenth year of his Age, by the Inſtance of Dr. <hi>Ward,</hi> now Lord Biſhop of <hi>Sarum,</hi> and the ſaid Biſhop <hi>VVilkins,</hi> and Dr. <hi>Bathurſt,</hi> the Preſent Dean of <hi>VVells,</hi> was recommended to the care of Dr. <hi>VVilliam Holder,</hi> then Rector of <hi>Bletchington</hi> near <hi>Oxford,</hi> and brought thither to him. Who deſirous to
+<pb facs="tcp:31613:4"/>ſerve the Ends, and contribute ſomething to the deſign of that Worthy Company before-mentioned, <hi>viz.</hi> Improve<g ref="char:EOLhyphen"/>ment of natural knowledg and publick benefit: and not doubting but that a Dumb perſon, Dumb only in conſe<g ref="char:EOLhyphen"/>quence of being Deaf, might be capable of being inſtructed to apply the motions of his Tongue and other Inſtruments of Speech, ſo as to acquire a ready and diſtinct pronun<g ref="char:EOLhyphen"/>ciation; and knowing it (as another might have done) to be both poſſible and feaſible, from an Example of that kind, ſeen and heard by His late Majeſty in <hi>Spain;</hi> did by means of ſuch Conſiderations and Methods as are ſince by him made publick, in a ſhort time, teach the ſaid Mr. <hi>Popham</hi> to pronounce plainly and diſtinctly, and with a good and graceful tone, whatſoever words were ſhewn him in Print or Writing, or repreſented to him by other ſeveral ways; or as he had occaſion to ask for, or repeat ſuch things as he had learn'd or underſtood.</p>
+               <p>This was publickly taken notice of, and known, not only to thoſe eminent perſons above-named; but generally in <hi>Oxford,</hi> from whence very many Students reſorted to <hi>Bletchington</hi> on purpoſe to ſatisfie their curioſity, and have a particular knowledg of that which they had recei<g ref="char:EOLhyphen"/>ved by report. Amongſt theſe, Dr. <hi>VVallis</hi> was one, with whom alſo Dr. <hi>Holder</hi> had diſcourſe on that occaſion di<g ref="char:EOLhyphen"/>vers times when they happened to meet in <hi>Oxford.</hi>
+               </p>
+               <p>In <hi>March</hi> 1659/60, Mr. <hi>Popham</hi> (together with Dr. <hi>Holder</hi>) was ſent for to his Relations, then at <hi>Weſtminſter.</hi> On which occaſion, many perſons of all degrees, both there and in <hi>London,</hi> ſatisfied themſelves in hearing Mr. <hi>Popham</hi> ſpeak, and particularly Sir <hi>Charles Scarborough,</hi> M.D. Who alſo in his publick Lectures of <hi>Anatomy</hi> at that time, thought fit to make an expreſs Relation of it, naming alſo the per<g ref="char:EOLhyphen"/>ſons concerned in this experiment.</p>
+               <p>In the Summer following (Dr. <hi>Holder</hi> being upon re<g ref="char:EOLhyphen"/>moval to <hi>Ely</hi>) Mr. <hi>Popham</hi> returned home to his Friends, and began to loſe what he had learn'd; and about two years after, upon the Fame that Dr. <hi>VVallis</hi> had raiſed con<g ref="char:EOLhyphen"/>cerning Mr. <hi>VVhalely,</hi> was placed for ſome time with Dr.
+<pb facs="tcp:31613:5"/>
+                  <hi>Wallis,</hi> who in 1662, (two years after Mr. <hi>Popham</hi> had been by Dr <hi>Holder</hi> firſt taught to ſpeak) had made tryal upon Mr. <hi>Whalely,</hi> who could once ſpeak well, till he be<g ref="char:EOLhyphen"/>came Deaf about five years of Age, (as Dr. <hi>Wallis</hi> re<g ref="char:EOLhyphen"/>lates) and then by degrees through occaſion of his Deaf<g ref="char:EOLhyphen"/>neſs, wholly diſuſed himſelf to ſpeak.</p>
+               <p>Having ſome ſucceſs in making Mr. <hi>Whalely</hi> pronounce words, though with a harſh ill tone; the Doctor (deſirous it ſeems to entitle himſelf to this experiment) brought him to <hi>London</hi> in <hi>May</hi> 1662, and ſhewed this as a new wonder to the Court, and to the Royal Society, where he reaped great praiſe, and had it regiſtred to perpetuate the memory of his Atchievement.</p>
+               <p>Dr. <hi>Holder</hi> ſaw this, and could not but wonder, and al<g ref="char:EOLhyphen"/>moſt pity to ſee a perſon of ſo good Learning, endowed with ſo many excellent things to make him very conſidera<g ref="char:EOLhyphen"/>bly reputed in the world; yet by too much greedi<g ref="char:EOLhyphen"/>neſs of Fame, ſuffer himſelf to be tempted to the vanity of uſing ſuch ways of begging and borrowing Reputation.</p>
+               <p>Had Dr. <hi>Holder</hi> been ſo ambitious, or would he have been moved on this juſt occaſion to appear concerned to aſſert his own right; he could truely have let the world then know, That he is the firſt that is remembred ever to have ſucceeded in this attempt in <hi>England,</hi> or perhaps in the world, the perſon he undertook, being Deaf from his Birth; whereas that ſo noiſed, but later attempt of Dr. <hi>Wallis</hi> upon Mr. <hi>Whalely,</hi> was only to regain, in part, a decayed habit, upon one who could have ſpoke till five years old. And the Conſtable of <hi>Caſtiles</hi> Son (as is rela<g ref="char:EOLhyphen"/>ted by the Conſtables Secretary, <hi>Pablo Bonet</hi>) heard till two years of Age, and it is likely in that time, (conſidering the Climate) was forward in ſpeaking. And Mr. <hi>Popham,</hi> when he was brought to Dr. <hi>Wallis,</hi> was one alſo who could have ſpoke well above two years before, having been taught by Dr. <hi>Holder.</hi>
+               </p>
+               <p>The truth is, Dr. <hi>Holder</hi> then found this Eſſay ſo feaſi<g ref="char:EOLhyphen"/>ble, and ſtill thinks it ſo eaſily practicable, after that me<g ref="char:EOLhyphen"/>thod he uſed, and hath deſcribed in his Appendix to the Elements of Speech, that he thought it no ſuch great
+<pb n="7" facs="tcp:31613:5"/>matter of boaſt; and wonders that it hath not been, and is not oftner attempted, being certain not to fail upon any Dumb perſon that is docible (as moſt of them are) rightly managed. And he could wiſh that more attempts might be made by ſuch ingenious perſons as have leiſure and opportunity, whom he aſſures of all readineſs in himſelf to encourage and aſſiſt them. And as for the induſtry that Dr. <hi>Wallis</hi> uſed to celebrate the effects (as he ſpeaks) of his skill, and aſſume all to himſelf; Dr. <hi>Holder</hi> as un<g ref="char:EOLhyphen"/>concerned, ſuffered it to paſs, and permitted him quietly to enjoy it, ſatisfying himſelf with what he had done, more in order to publick benefit, than for Oſtentation. And ſhould have ſtill paſſed it over, had not Dr. <hi>Wallis</hi> in purſu<g ref="char:EOLhyphen"/>ance of his deſign, given further occaſion.</p>
+               <p>For it happened that about ſix or ſeven years after, on occaſion of the loſs of ſome Papers on that ſubject, former<g ref="char:EOLhyphen"/>ly communicated by Dr. <hi>Holder,</hi> to the late Biſhop of <hi>Cheſter,</hi> (mentioned in his Book of the <hi>
+                     <g ref="char:V">Ʋ</g>niverſal Character,</hi> p.) which were loſt in the Biſhops ſtudy, together with all his own, in the dreadful Fire of <hi>London;</hi> Dr. <hi>Holder</hi> was importuned by the ſaid Biſhop, and divers other Members of the Society, to renew thoſe Papers, and to deſcribe and diſcover the Method he had uſed in bringing Mr. <hi>Popham</hi> to ſpeak. He thereupon in the year 1669, preſented to the Royal Society, an account thereof in a Treatiſe of the <hi>Elements of Speech,</hi> with an Appendix concerning perſons Deaf and Dumb, which they thought fit to order to be Printed. Wherein he having made ſome ſlight mention of his ſucceſs upon a Deaf and Dumb perſon, intending Mr. <hi>Popham;</hi> Dr. <hi>Wallis,</hi> who thought he had put himſelf in ſole poſſeſſion of the repute of this experiment, it ſhould ſeem, was ſtartled, and about a year after contrived to be publiſhed in the Tranſactions of <hi>July</hi> 18. 1670, a Letter of his to Mr. <hi>Boyle</hi> of Date <hi>March</hi> 14. 1661/2. In which he pretends (for he could not do it in earneſt, the ſub<g ref="char:EOLhyphen"/>ject in reference to him not being capable) to conſider and debate about the Natural and Moral poſſibility and feaſibleneſs of making a Dumb perſon ſpeak, ſo to encou<g ref="char:EOLhyphen"/>rage himſelf to undertake it. And all this, after he had
+<pb n="8" facs="tcp:31613:6"/>ſeen it performed two years before, and therefore to his certain knowledg, it was both naturally poſſible, and mo<g ref="char:EOLhyphen"/>rally feaſible. And it was a mockery in him to pretend to deliberate about it, and that Honourable Gentleman was little obliged to him for being ſo treated.</p>
+               <p>But the Doctor had a further deſign in publiſhing it. For to this Letter he added by way of Comment, in the Pub<g ref="char:EOLhyphen"/>liſhers name, but of his own penning, a more particular account and boaſt about Mr. <hi>Whalely,</hi> and in three or four ſubtle lines (which was his chief deſign,) hedged in what concerned Mr. <hi>Popham,</hi> deſcribing, but (wiſely) not naming him. And concluded with magnifying a ſmall Treatiſe of his <hi>De Loquelâ, on confidence of which he durſt undertake that difficult task.</hi> And if Dr. <hi>Holden,</hi> or any other ſince that, have writ upon the like ſubject, they are like to gain nothing upon him, for he reſolves, <hi>Whether any ſince him have with more judgment and accurateneſs performed the ſame, he will not take upon him at all to determine.</hi> For all which the Reader is referred to the ſaid Tranſactions of <hi>July,</hi> 1670.</p>
+               <p>As to the laſt Challenge: <hi>Whether any ſince him,</hi> &amp;c. Dr. <hi>Holder</hi> ſubmits it (ſo far as concerns him) to the in<g ref="char:EOLhyphen"/>telligent impartial Reader. But as to the conſidering Let<g ref="char:EOLhyphen"/>ter, and unſeaſonable boaſt of his ſucceſs with Mr <hi>Whalely,</hi> and principally his aſſuming Mr. <hi>Popham's</hi> ſpeaking ſolely to himſelf; to which the other were only ſubſervient, and were to make a noiſe while this ſlipt in; Dr. <hi>Holder</hi> de<g ref="char:EOLhyphen"/>clared then his diſſatisfaction both to the Publiſher, and to Dr. <hi>Wallis</hi> himſelf, as being (all circumſtances conſidered) injuriouſly and diſingenuouſly dealt withal. And now af<g ref="char:EOLhyphen"/>ter ſeveral years expectation of ſome ingenuous ſatisfaction from Dr. <hi>Wallis,</hi> for that his want of Candour, in publiſh<g ref="char:EOLhyphen"/>ing at that time, and with that manner of contrivance, the fore-mentioned account in his Letter to Mr. <hi>Boyle,</hi> with the Comment upon it; at laſt he addreſſeth himſelf to the Pub<g ref="char:EOLhyphen"/>liſher, thinking it juſt and requiſite, that this Memorial be alſo inſerted in the Tranſactions, both to diſabuſe the Reader, and to do ſome right unto himſelf.</p>
+               <pb n="9" facs="tcp:31613:6"/>
+               <p>THis foregoing Paper, or near the ſame, (the Title or Preface of which was of Mr. <hi>Oldenburghs</hi> own pen<g ref="char:EOLhyphen"/>ning) was put into Mr. <hi>Oldenburghs</hi> hand, and he thought it reaſonable and juſt to publiſh it in the Tranſactions, both to give Dr. <hi>Holder</hi> ſome ſatisfaction, and to vindicate him<g ref="char:EOLhyphen"/>ſelf from ſeeming partial, having been thought to be ſo; but in good meaſure excuſed himſelf in this particular, by being ſo impoſed upon by Dr. <hi>Wallis.</hi> But he met with difficulty in the Licenſing of it. They thinking it juſt and neceſſary that Dr. <hi>Holder</hi> ſhould be righted, but willing to have ſome paſſages ſoftned: before which was done, Mr. <hi>Oldenburgh</hi> deceaſed, and ſo Dr. <hi>Holder</hi> remains without any poſſibility of being repaired by the ſame hand which unwittingly in<g ref="char:EOLhyphen"/>jured him.</p>
+               <p>Now whilſt this affair lay before the Royal Society, and Dr. <hi>Wallis</hi> knew ſo much; he could not forbear to act the ſame part over again. For the Ingenious and Learned Dr. <hi>Robert Plot, L. L. D.</hi> deſigning a natural Hiſtory of <hi>Oxford<g ref="char:EOLhyphen"/>ſhire,</hi> Dr. <hi>VVallis</hi> thruſt himſelf in, and contrived to be abundantly praiſed in that work, making a great part of it a Hiſtory of Dr. <hi>VVallis.</hi> He impoſes upon that worthy, honeſt, well meaning perſon, who ſuſpected no ſiniſter de<g ref="char:EOLhyphen"/>ſign, to magnifie again that ſmall Treatiſe <hi>De Loquelâ,</hi> to renew the challenge, and ſeem to prefer it before what Biſhop <hi>VVilkins,</hi> or Dr. <hi>Holder</hi> have ſince writ, even by the advan<g ref="char:EOLhyphen"/>tage of what Dr. <hi>VVallis</hi> did before. When-as, the truth is, Dr. <hi>Plot</hi> had never ſeen either Dr. <hi>VVallis,</hi> or Dr. <hi>Holder's</hi> Treatiſes, and could not pretend to paſs any Judgment up<g ref="char:EOLhyphen"/>on them, but innocently ſuffered Dr. <hi>VVallis</hi> to paſs it into his Book. And if we may gueſs at the reſt by thoſe three Paragraphs, <hi>p.</hi> 281, 282. <hi>n.</hi> 179. 180, 181. which were cer<g ref="char:EOLhyphen"/>tainly (or the greateſt and material part of them) of Dr. <hi>VVallis</hi>'s own penning, and all of his ſuperviſing, it may be juſtly thought all the reſt were ſo too. And here Dr. <hi>VVallis</hi> is ſecure to gain this point, that in a Book which will come into the hands of all curious perſons, Dr. <hi>VVallis</hi>'s fame is ſpread forth to all; and but few will ever happen to know, that he impoſed upon the good Doctor, and penned it him<g ref="char:EOLhyphen"/>ſelf, as he had done before to the Publiſher of the Tranſacti<g ref="char:EOLhyphen"/>ons;
+<pb facs="tcp:31613:7"/>but it was the greater abute to Dr. <hi>Plot,</hi> to be re<g ref="char:EOLhyphen"/>ferred to thoſe Tranſactions which Dr. <hi>VVallis</hi> knew to lye at that time under correction before the Royal Society.</p>
+               <p>THere is no man will blame any ingenious perſon for making himſelf fairly known to the world, by publiſhing the products of his Parts and Learning. And for thoſe ma<g ref="char:EOLhyphen"/>ny things which Dr. <hi>VVallis</hi> has performed, and gained re<g ref="char:EOLhyphen"/>putation; Dr. <hi>Holder</hi> wiſheth him much joy, and is as ready as any to give him his due praiſe. He thinks Dr. <hi>VVallis</hi> had enough to commend him to the world, and might have kept within the bounds of Fairneſs and Candor, and not have wanted due eſtimation.</p>
+               <p>And in this particular he eſteems it very conſiderable what Dr. <hi>Wallis</hi> performed upon thoſe two Deaf Gentle<g ref="char:EOLhyphen"/>men, and worthy to be known and valued, and has not been wanting to do him that right on all occaſions, and would ſay more of it, if he ſhould not ſeem to commend himſelf. But he thinks withal, that the Doctors manner of publiſhing it ſo often, and ſo many ways, and with ſo much boaſt and contrivance, was not fair in many reſpects; and that he had manifeſtly a deſign by all poſſible noiſe and pre<g ref="char:EOLhyphen"/>poſſeſſion, to drown and ſuppreſs the Claim of any who ſhould with more modeſty own a primier Title to this ex<g ref="char:EOLhyphen"/>periment. Nor could the Doctor conceal his particular emu<g ref="char:EOLhyphen"/>lation, when he compaſſed to have his Treatiſe <hi>De Loquelâ,</hi> or, <hi>Of the formation of Sounds</hi> to be commended. Where though the Doctor could not abſtain from that ſubject, nor could find in his heart to determine againſt himſelf; yet 'tis odds, but the impartial Reader will ſoon determine, <hi>VVhether the ſame hath not ſince been performed with more accuracy and judgment.</hi>
+               </p>
+               <p>He thinks further, that Dr. <hi>VVallis</hi> merited, and had a fair repute, and needed not to be ſo haſty and greedy, as to uſe ſuch indirect and ſiniſter ways of anticipating and en<g ref="char:EOLhyphen"/>larging his own fame; but might have been ſufficed with<g ref="char:EOLhyphen"/>out rifling his Neighbours, and adorning himſelf with their ſpoyls.</p>
+               <p>But it ſeems he could not help what was either in his na<g ref="char:EOLhyphen"/>ture, or elſe habitual to him; and hopes to bear it out with
+<pb facs="tcp:31613:7"/>ſubtlety of contrivauce, ſpeaking like truth ſo artificially, that his Reader is to believe more than is true, and it ſerves him to impoſe upon them whoſe names and credit he bor<g ref="char:EOLhyphen"/>rows to commend him; and for a reſerve to himſelf, if he be called to account. It is true that Mr. <hi>Oldenburgh</hi> and Dr. <hi>Plot</hi> have put upon Record ſome great performances of Dr. <hi>Wallis,</hi> and the Reader may ſeem obliged to relye upon their credit. But it is not true that either of them knew or writ any thing of thoſe matters, but what was put into their hands by Dr. <hi>Wallis.</hi> It was no unlikely or incredible thing to conſider of the natural and moral poſſibility of making a Dumb perſon ſpeak. But it was not true that Dr. <hi>Wallis</hi> under thoſe circumſtances did, or could deliberate about that poſſibility. It was like truth, but it was not true, what he ſays in the Tranſactions, that he <hi>did the like for another, &amp;c.</hi> Except by <hi>doing the like,</hi> he means, ma<g ref="char:EOLhyphen"/>king another ſpeak, who could have ſpoke before. But in the <hi>Nat. Hiſt.</hi> of <hi>Oxford-ſhire,</hi> he tells a more demure truth, that he taught Dumb perſons; ſo he did, for two were his Schollars. But did either Mr. <hi>Popham</hi> or Mr. <hi>Whalely</hi> ow<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> their firſt ſpeaking to him? Rather, one to his Nurſe, the other to Dr. <hi>Holder.</hi> But Dr. <hi>Wallis</hi> deſires and deſigns the world would be ſo kind as to be cajoled into ſuch a belief concerning Mr. <hi>Popham;</hi> and the rather, ſince he has drawn in Mr. <hi>Oldenburgh</hi> and Dr. <hi>Plot</hi> (till they were better in<g ref="char:EOLhyphen"/>formed) to believe it, and prevailed with them, to ſay as from themſelves, what he impoſed upon them. The later of theſe ſurvives, and 'tis not doubted hath ſo much inte<g ref="char:EOLhyphen"/>grity, as no longer to Father thoſe paſſages which Dr. <hi>Wallis</hi> has crowded into his Book; but will do right to the Reader, and himſelf and Dr. <hi>Holder</hi> on all occaſions.</p>
+               <p>THe Reader need not be troubled with Dr. <hi>Wallis</hi>'s whole Letter to Mr. <hi>Boyle</hi> in thoſe Philoſophical Tranſactions of <hi>July,</hi> 18. 1670. <hi>p.</hi> 1087. <hi>N.</hi> 61. But is here preſented with a touch of ſuch paſſages as concern this affair.</p>
+               <p>And firſt, Pray Reader or Paſſenger, whatever you are about, leave it, and liſten.</p>
+               <pb facs="tcp:31613:8"/>
+               <list>
+                  <label>The Contents.</label>
+                  <item>
+                     <q>A Letter of Dr. <hi>John Wallis's</hi> to <hi>Robert Boyle</hi> 
+                        <abbr>Eſq</abbr> con<g ref="char:EOLhyphen"/>cerning the ſaid Doctor's Eſſay of teaching a perſon Dumb and Deaf to ſpeak, and to underſtand a Language; together with the ſucceſs thereof, made apparent to His Majeſty, the Royal Society, and the <g ref="char:V">Ʋ</g>niverſity of <hi>Oxford,</hi> &amp;c.</q>
+                  </item>
+                  <label>Title of the Letter in the ſame Page.</label>
+                  <item>
+                     <q>A Letter of Dr. <hi>John Wallis's</hi> to <hi>Robert Boyle</hi> 
+                        <abbr>Eſq</abbr> con<g ref="char:EOLhyphen"/>cerning the ſaid Doctors-Eſſay of teaching a Dumb and Deaf perſon to ſpeak, and to underſtand a Language, together with the ſucceſs thereof. VVhich Letter, though written many years ſince, was but lately obtained to be inſerted here, it be<g ref="char:EOLhyphen"/>ing eſteemed very well worth to be preſerved and communicated for publick uſe.</q>
+                  </item>
+               </list>
+               <p>THe Reader may poſſibly reflect upon the Doctors va<g ref="char:EOLhyphen"/>nity in penning this out-cry, but it was but part vani<g ref="char:EOLhyphen"/>ty, and part deſign. For now who can believe that ever any one thought of this before Dr. <hi>VVallis</hi> made this <hi>Eſſay</hi> upon Mr. <hi>VVhalely?</hi> and ſo <hi>confidently</hi> ſhewed and boaſted it; it muſt be preſumed that this was the <hi>firſt Eſſay.</hi> Eſpecially conſidering what follows in the Letter, <bibl>
+                     <hi>Page</hi> 1088—</bibl>
+                  <q>I thought my ſelf obliged to give you this brief account of that whole af<g ref="char:EOLhyphen"/>fair, that you may at once perceive as well upon what conſide<g ref="char:EOLhyphen"/>rations I was induced to attempt that work, and what I did propoſe to my ſelf as feaſible therein, as what ſucceſs hath hitherto attended that Eſſay.</q>
+               </p>
+               <p>
+                  <bibl>
+                     <hi>Ibid.</hi>
+                  </bibl>
+                  <q>Now though I did <hi>not apprehend</hi> either of theſe <hi>impoſſible,</hi> [<hi>viz.</hi> to ſpeak and to underſtand a language].</q>
+               </p>
+               <p>
+                  <bibl>
+                     <hi>P.</hi> 1090.</bibl>
+                  <q>Theſe difficulties (of which I was well aware) did not ſo far <hi>diſcourage</hi> me from that undertaking, but that I did ſtill <hi>conceive it poſſible</hi> that both parts of this task <hi>might</hi> be effected.</q>
+               </p>
+               <p>
+                  <bibl>
+                     <hi>P.</hi> 1092.</bibl>
+                  <q>To theſe fundamental grounds of <hi>poſſibility in nature,</hi> I am next to add a <hi>Conſideration</hi> which made me think it <hi>morally poſſible,</hi> that is, <hi>not impoſſible to ſucceed in practice.</hi>
+                  </q>
+               </p>
+               <pb facs="tcp:31613:8"/>
+               <p>
+                  <bibl>
+                     <hi>P.</hi> 1093.</bibl>
+                  <q>My next <hi>inducement</hi> to undertake it was the conſideration of the perſon—repreſented to me as ingeni<g ref="char:EOLhyphen"/>ous and apprehenſive—could have ſpoke till five years of age.</q>
+               </p>
+               <p>
+                  <bibl>
+                     <hi>P.</hi> 1094.</bibl>
+                  <q>Having thus acquainted you with thoſe <hi>Conſide<g ref="char:EOLhyphen"/>rations</hi> which <hi>induced</hi> me to attempt it.</q>
+               </p>
+               <p>
+                  <bibl>
+                     <hi>Ibid.</hi>
+                  </bibl>
+                  <q>Though I did believe that much more is to be effected, than is commonly thought <hi>feaſible;</hi> and that it was <hi>poſſible</hi> for him to ſpeak, ſo as to be underſtood.</q>
+               </p>
+               <p>
+                  <bibl>
+                     <hi>Poſtſc.</hi> p. 1098.</bibl>
+                  <q>
+                     <p>
+                        <hi>Oxford</hi> 
+                        <date>
+                           <hi>March</hi> 14. 1661/2.</date>
+                     </p>
+                     <p>The ſaid Doctor was by the ſame Aſſembly [Royal Society] encouraged to purſue what he had ſo <hi>inge<g ref="char:EOLhyphen"/>niouſly and ſucceſsfully begun.</hi> [Modeſtly ſaid of himſelf].</p>
+                  </q>
+               </p>
+               <p>
+                  <bibl>Ibid.</bibl>
+                  <q>
+                     <hi>Nor is this the only perſon, on whom the ſaid Doctor hath ſhewed the effect of his skill, but he hath ſince done the like for another (a young Gentleman of a very good Family, and a fair eſtate) who did from his Birth want his Hearing,</hi> [meaning Mr. <hi>Popham</hi>]. </q> By what hath been ſaid before, the Reader is able to judg of the honeſty of this laſt paſſage. Mr. <hi>Popham</hi> did indeed from his Birth want his Hearing, but he did not from his Birth to the time that Dr. <hi>VVallis</hi> began to teach him want his Speech; but this is contrived to make the Reader think he did.</p>
+               <p>
+                  <bibl>
+                     <hi>P.</hi> 1099.</bibl>
+                  <q>He commends his ſmall <hi>Treatiſe De Loquelâ, On conſidence of which he durſt undertake that difficult task.</hi>
+                  </q>
+               </p>
+               <p>
+                  <bibl>
+                     <hi>Ibid.</hi>
+                  </bibl>
+                  <q>Whether any <hi>ſince him</hi> [that is, whether Biſhop <hi>VVilkins,</hi> or Dr. <hi>Holder,</hi> as he explains himſelf in Dr. <hi>Plots Nat. Hiſt. Oxford-ſhire,</hi> p. 282.] have with more <hi>judgment</hi> and <hi>accurateneſs</hi> performed the ſame, I will not take upon me at all to determine, [<hi>very moderately expreſt, but your meaning may be eaſily gueſſed</hi>].</q>
+               </p>
+               <p>WIth ſome ſort of men, ſimulation and diſſimulation are no ſins. Theſe Conſiderations <hi>induced</hi> him, and his Treatiſe <hi>De Loquelâ,</hi> gave him <hi>confidence</hi> to <hi>dare</hi> to undertake that <hi>difficult</hi> task; but not a word of any inducement, or incou<g ref="char:EOLhyphen"/>ragement, or thought of the poſſibility of it, from his ha<g ref="char:EOLhyphen"/>ving ſeen it effected but two years before, within five Miles
+<pb facs="tcp:31613:9"/>of him, his Reader muſt not know of that; and poſſibly Mr. <hi>Oldenburgh</hi> did not, nor Dr. <hi>Plot:</hi> but the Doctor knew it full well, when he ſent that ſubtle Letter and Poſtſcript to Mr. <hi>Oldenburgh,</hi> and plaid the ſame game over again with Dr. <hi>Plot.</hi> And in the Preface before the fourth Edition of his <hi>Engliſh</hi>-Grammar, tells the Reader that it was from hence, from his more attentive perpenſion of his Treatiſe of the <hi>Formation of ſounds,</hi> [<hi>poſtquam attentius perpenderam, hinc, &amp;c.</hi>] that he taught two Dumb perſons [<hi>plane mutos</hi>] to ſpeak.</p>
+               <p>NOw after all, to compound this matter; though Dr. <hi>Holder</hi> is not willing to allow Dr. <hi>VVallis</hi> to be any more than an Interloper in this experiment, and refers to the Reader to judg whether the ſaid Doctor did deal <hi>bonâ Fide</hi> in thoſe <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>mnous accounts publiſhed on this affair: yet, becauſe Dr. <hi>
+                     <gap reason="illegible" resp="#UOM" extent="2+ letters">
+                        <desc>••…</desc>
+                     </gap>is</hi> hath ſhewn ſo much dexterity and fine contrivance in attempting to be ſole Author of this effect; Dr. <hi>Holder</hi> is con<g ref="char:EOLhyphen"/>tent (if others be ſo), that Dr. <hi>Wallis</hi> may in lieu of it poſſeſs &amp; enjoy that glorious Title of our <hi>ENGLISH ARCHIMEDES, Nat. Hiſt. Oxf.</hi> p. 287.</p>
+               <p>And further, If Dr. <hi>Wallis</hi> ſhall think fit to publiſh ſuch-like grave Conſiderations about the Natural and Moral poſ<g ref="char:EOLhyphen"/>ſibility of contriving glaſſes to help the eye to ſee at a di<g ref="char:EOLhyphen"/>ſtance, and to diſcern ſmall bodies at hand: or of ſetting in a frame, Characters ſo diſpoſed and ordered under a Preſs, that by them a thouſand Books may be wrought off in the time that two or three can be written, with many other advanta<g ref="char:EOLhyphen"/>ges: or of making a Powder, which being fired, ſhall have great force, and perform ſtrange things. And if upon thoſe Conſiderations, got to be publiſhed in the Tranſactions with Poſtſcripts, and ſubtle Comments, and to be avouched in other Authors; diſſembling his own knowledg of any ſuch matters before, but encouraged thereto, on confidence of his Book of <hi>Mechanicks:</hi> If with theſe and other like Artifices, he can attain t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> be thought the firſt inventor of Teleſcopes, Microſ<g ref="char:EOLhyphen"/>copes, Printing, Guns and Squibs, which he may better hope to effect, ſince the Authors of thoſe Inventions are dead, and will certainly be ſilent and quiet; Dr. <hi>Holder</hi> promiſeth not to concern himſelf to undeceive the world, or ſtrip the Doctor of any part of that Glory, provided he deal more fairly here<g ref="char:EOLhyphen"/>after about the Deaf and Dumb.</p>
+               <pb facs="tcp:31613:9"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
